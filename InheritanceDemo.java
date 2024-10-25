@@ -35,8 +35,9 @@ class Animal {
      * Constructor for the Animal class.
      *
      * @param name the name of the animal
+     * @param a simple param
      */
-    public Animal(String name) {
+    public Animal(String name,int a) {
         this.name = name;
     }
     //first commit 
